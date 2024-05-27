@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SarahFerr
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Git and GitHub
